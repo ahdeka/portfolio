@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_article"
+        android:enabled="true"
+        android:icon="@drawable/ic_article"
+        android:title="뉴스피드"/>
+
+    <item
+        android:id="@+id/action_schedule"
+        android:enabled="true"
+        android:icon="@drawable/ic_schedule"
+        android:title="일정"/>
+
+    <item
+        android:id="@+id/action_league"
+        android:enabled="true"
+        android:icon="@drawable/ic_league"
+        android:title="리그"/>
+
+    <item
+        android:id="@+id/action_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="팔로잉"/>
+
+    <item
+        android:id="@+id/action_menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu"
+        android:title="더보기"/>
+
+
+
+
+</menu>
